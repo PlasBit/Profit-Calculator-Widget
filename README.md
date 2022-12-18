@@ -2,7 +2,7 @@
 
 
 
-### The __[Profit Calculator Widget](https://www.plasbit.com/widgets)__ — is a beautiful and easy-to-use real-time calculator that calculates your cryptocurrencies Fiat earnings / losses, which can be used For FREE on your site. ###
+### The __[Profit Calculator Widget](https://www.plasbit.com/widgets)__ — is a beautiful and easy-to-use real-time calculator that calculates your cryptocurrencies into Fiat earnings / losses, which can be used For FREE on your site. ###
 
 
 ## [DEMO](https://www.plasbit.com/widgets) ###
