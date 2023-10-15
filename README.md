@@ -1,36 +1,48 @@
-# Profit-Calculator-Widget #
+# Crypto Profit Calculator Widget 📊
 
+The Crypto Profit Calculator Widget is a sophisticated tool for websites, enabling users to quickly calculate their potential profit or loss based on their cryptocurrency investments.
 
+- 🚀 **Features**: Input initial investment, buy and sell prices, and see the calculated profit or loss in real-time.
+- 💸 **Cost**: Absolutely FREE!
 
-### The Profit Calculator Widget — is a beautiful and easy-to-use real-time calculator that calculates your cryptocurrencies into Fiat earnings / losses, which can be used For FREE on your site. ###
+## [Live Demo]()
+[Click here to see the DEMO](https://www.plasbit.com/widgets)
 
+## How to Use
 
-## [DEMO](https://www.plasbit.com/widgets) ###
+### 1. Customization:
 
-
-## How to customize: ##
-
+See how easy it is to customize the widget to match your website's theme.
 
 ![](https://github.com/PlasBit/Profit-Calculator-Widget/blob/main/Customisze.gif)
 
-## How to copy the code into your wesite: ##
+### 2. Copy to your website:
 
+Copying the code to your website is straightforward!
 
 ![](https://github.com/PlasBit/Profit-Calculator-Widget/blob/main/Copy.gif)
 
-### How To Install ###
+### 3. Installation:
+1. Copy the example provided below.
+2. Tweak it according to your needs.
+3. Seamlessly integrate crypto conversion on your site!
 
-0. Copy [example](#example-) below and set your attributes customize.
-1. Enjoy.
-
----
-
-### Example ###
+### Code Snippet:
 
 ```html
-<!-- Profit Calculator Widget --><div id="crypto_profit" data-coins="" data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)" data-text="#ffffff" data-button="#e4b54b"></div><script src="https://img.plasbit.com/widget/js/index.js"></script><!-- /Profit Calculator Widget -->
+<!-- Crypto Calculator Widget -->
+<div id="crypto_calculator" data-coins="" data-cards="" data-rss=""
+    data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)"
+    data-text="#ffffff" data-button="#0581de" data-vertical="false" data-coin="BTC" data-price="USD"
+    data-crypto-amount="1" data-switch-mode="false" data-currency-amount="1" data-language="en">
+</div>
+<script src="https://img.plasbit.com/widget/js/crypto-calculator.js"></script>
 ```
 
 
 
-### Check our website for the complete customization of our widgets https://www.plasbit.com/widgets ###
+🎨 **Need More Customization?**
+
+Discover a wide range of customization options on our official site:
+
+🌐 [PlasBit Widgets](https://www.plasbit.com/widgets)
